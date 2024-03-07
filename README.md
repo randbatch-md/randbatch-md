@@ -1,18 +1,44 @@
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="36px" width="36px">  Welcome To WeiZhu!</h1>
+
 ![banner](https://github.com/randbatch-md/randbatch-md/blob/main/Docs/weizhu.png)
 
 [wei zhu](https://www.randbatch.com/) | [RBMD]() | [Tutorials](https://www.randbatch.com/guide/)
 
-<!--
-**randbatch-md/randbatch-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/randbatch-md/rbmd"><b>rbmd</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/randbatch-md/rbmd?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/randbatch-md/rbmd?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/randbatch-md/rbmd?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/randbatch-md/rbmd?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/randbatch-md/lammps-rbe"><b>lammps-rbe</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/randbatch-md/lammps-rbe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/randbatch-md/lammps-rbe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/randbatch-md/lammps-rbe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/randbatch-md/lammps-rbe?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/randbatch-md/gromacs-rbe"><b>gromacs-rbe</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/randbatch-md/gromacs-rbe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/randbatch-md/gromacs-rbe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/randbatch-md/gromacs-rbe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/randbatch-md/gromacs-rbe?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
-Here are some ideas to get you started:
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=randbatch-md&layout=compact&langs_count=8&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
