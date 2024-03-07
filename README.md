@@ -1,5 +1,4 @@
-### Hi there 👋
-[![banner](https://github.com/randbatch-md/randbatch-md/blob/main/Docs/weizhu.png)]
+![banner](https://github.com/randbatch-md/randbatch-md/blob/main/Docs/weizhu.png)
 
 [randbatch](https://www.randbatch.com/) | [Projects](https://deepmodeling.com/projects/00) | [Tutorials](https://tutorials.deepmodeling.com)
 
