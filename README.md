@@ -40,5 +40,5 @@
   </tbody>
 </table>
 
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=randbatch-md&layout=compact&langs_count=8&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randbatch-md&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
