@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="36px" width="36px">  Welcome To WeiZhu!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="36px" width="36px">  Welcome To Weizhu!</h1>
 
 ![banner](https://github.com/randbatch-md/randbatch-md/blob/main/Docs/weizhu.png)
 
