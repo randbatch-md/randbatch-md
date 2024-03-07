@@ -4,7 +4,9 @@
 
 [wei zhu](https://www.randbatch.com/) | [Tutorials](https://www.randbatch.com/guide/)
 
-<p><a href="https://www.randbatch.com"><img align="left" width="24px" src="https://github.com/randbatch-md/randbatch-md/blob/main/Docs/logo.png"/></a></p>
+<p><a href="https://www.randbatch.com"><img width="130" src="https://github.com/randbatch-md/randbatch-md/blob/main/Docs/rbmd-logo.png"/></a></p>
+
+<img src="https://github.com/randbatch-md/randbatch-md/blob/main/Docs/rbmd.png" height="500px" width="850px">
 
 <h3>Open source projects</h3>
 <table>
