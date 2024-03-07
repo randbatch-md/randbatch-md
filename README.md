@@ -4,7 +4,7 @@
 
 [wei zhu](https://www.randbatch.com/) | [Tutorials](https://www.randbatch.com/guide/)
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="36px" width="36px">  Welcome To WeiZhu!</h3>
+<h3><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="36px" width="36px">  RBMD</h3>
 
 <h3>Open source projects</h3>
 <table>
