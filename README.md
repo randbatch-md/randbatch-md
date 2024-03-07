@@ -4,7 +4,7 @@
 
 [wei zhu](https://www.randbatch.com/) | [Tutorials](https://www.randbatch.com/guide/)
 
-<p><a href="https://www.randbatch.com"><img width="130" src="https://github.com/randbatch-md/randbatch-md/blob/main/Docs/rbmd-logo.png"/></a></p>
+<p><a href="https://www.randbatch.com"><b>RBMD Computing Platform</b></a></p>
 
 <img src="https://github.com/randbatch-md/randbatch-md/blob/main/Docs/rbmd.png" height="500px" width="850px">
 
