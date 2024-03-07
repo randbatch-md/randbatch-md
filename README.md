@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![banner](https://dp-public.oss-cn-beijing.aliyuncs.com/community/Deepmodeling%20banner%201500x500.png)](https://github.com/deepmodeling/community)
 
-[wei zhu](https://deepmodeling.com/) | [Projects](https://deepmodeling.com/projects/00) | [Tutorials](https://tutorials.deepmodeling.com)
+[randbatch](https://www.randbatch.com/) | [Projects](https://deepmodeling.com/projects/00) | [Tutorials](https://tutorials.deepmodeling.com)
 
 <!--
 **randbatch-md/randbatch-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
