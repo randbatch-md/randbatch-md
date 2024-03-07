@@ -1,6 +1,6 @@
 ![banner](https://github.com/randbatch-md/randbatch-md/blob/main/Docs/weizhu.png)
 
-[wei zhu](https://www.randbatch.com/) | [Projects](https://deepmodeling.com/projects/00) | [Tutorials](https://www.randbatch.com/guide/)
+[wei zhu](https://www.randbatch.com/) | [RBMD]() | [Tutorials](https://www.randbatch.com/guide/)
 
 <!--
 **randbatch-md/randbatch-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
