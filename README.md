@@ -2,7 +2,9 @@
 
 ![banner](https://github.com/randbatch-md/randbatch-md/blob/main/Docs/weizhu.png)
 
-[wei zhu](https://www.randbatch.com/) | [RBMD]() | [Tutorials](https://www.randbatch.com/guide/)
+[wei zhu](https://www.randbatch.com/) | [Tutorials](https://www.randbatch.com/guide/)
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="36px" width="36px">  Welcome To WeiZhu!</h3>
 
 <h3>Open source projects</h3>
 <table>
